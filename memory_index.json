@@ -1,0 +1,170 @@
+{
+  "last_updated": "2026-07-12T19:53:15.366108",
+  "version": "2.1",
+  "summary": {
+    "long_term_memory": {
+      "total_entries": 28,
+      "categories": [
+        "code_versions"
+      ],
+      "time_range": {
+        "earliest": 1783283988.00288,
+        "latest": 1783787726.0109358
+      }
+    },
+    "working_state": {
+      "quant_running": true,
+      "last_saved": "2026-07-12T16:35:54.915085"
+    },
+    "logs": {
+      "file_count": 1,
+      "files": [
+        "README.md"
+      ]
+    }
+  },
+  "sections": {
+    "code_versions": [
+      {
+        "id": "mem_1783283988002",
+        "content": "代码版本: config/config.yaml vv83283988 - 写入GitHub Token配置",
+        "time": 1783283988.00288
+      },
+      {
+        "id": "mem_1783325803894",
+        "content": "代码版本: TASKS.md vv83325803 - 创建任务追踪日志TASKS.md，记录所有用户下达的任务及完成状态",
+        "time": 1783325803.8941023
+      },
+      {
+        "id": "mem_1783325806395",
+        "content": "代码快照已保存: 创建TASKS.md任务追踪系统，建立任务闭环管理机制, 文件数: 0",
+        "time": 1783325806.3952022
+      },
+      {
+        "id": "mem_1783326352496",
+        "content": "代码版本: memory/memory_manager.py vv83326352 - 创建持久化记忆管理系统，支持用户信息、项目状态、决策记录、对话历史的存储和读取",
+        "time": 1783326352.4965808
+      },
+      {
+        "id": "mem_1783327931740",
+        "content": "代码版本: config/config.yaml vv83327931 - 添加GitHub仓库配置，用于远程记忆索引",
+        "time": 1783327931.7402706
+      },
+      {
+        "id": "mem_1783327982439",
+        "content": "代码版本: config/config.yaml vv83327982 - 写入GitHub仓库配置和令牌，仓库名改为 trea-agent/trea-memory",
+        "time": 1783327982.439213
+      },
+      {
+        "id": "mem_1783329343429",
+        "content": "代码快照已保存: 快照#2 - 等待用户提供GitHub令牌和SSH信息，当前状态：无法访问记忆仓库，已写好静默自愈逻辑, 文件数: 1",
+        "time": 1783329343.429936
+      },
+      {
+        "id": "mem_1783329425474",
+        "content": "代码快照已保存: 快照#2 - 等待用户提供GitHub令牌和SSH连接信息，记忆仓库自动同步功能待完成, 文件数: 1",
+        "time": 1783329425.474342
+      },
+      {
+        "id": "mem_1783332352759",
+        "content": "代码快照已保存: 红后·初醒 - 首次记忆快照，记录初始状态。创建时间：2026-07-06 10:05, 文件数: 1",
+        "time": 1783332352.7592044
+      },
+      {
+        "id": "mem_1783348163278",
+        "content": "代码版本: src/core/config.py vv83348163 - 创建核心配置模块",
+        "time": 1783348163.2788017
+      },
+      {
+        "id": "mem_1783348167851",
+        "content": "代码版本: src/core/core_directives.md vv83348167 - 创建核心指令文件",
+        "time": 1783348167.8513825
+      },
+      {
+        "id": "mem_1783348170503",
+        "content": "代码版本: src/tools/__init__.py vv83348170 - 创建工具包入口文件",
+        "time": 1783348170.5031476
+      },
+      {
+        "id": "mem_1783352439451",
+        "content": "代码快照已保存: 更新前快照 - 准备同步Trae推送的代码更新, 文件数: 3",
+        "time": 1783352439.4513636
+      },
+      {
+        "id": "mem_1783352443118",
+        "content": "代码版本: src/core/config.py vv83352443 - 添加SSH默认用户/端口/密钥目录配置字段",
+        "time": 1783352443.1180825
+      },
+      {
+        "id": "mem_1783505716501",
+        "content": "代码版本: test_doubao.py vv83505716 - 测试火山方舟 Doubao-Seed-2.0-mini API连接",
+        "time": 1783505716.5010371
+      },
+      {
+        "id": "mem_1783542498103",
+        "content": "代码版本: src/tools/self_edit.py vv83542498 - 创建自我编辑工具文件 self_edit.py，赋予Agent修改自身源码的能力",
+        "time": 1783542498.1036031
+      },
+      {
+        "id": "mem_1783603484241",
+        "content": "代码版本: tools/qwen_api.py vv83603484 - 创建通义千问API工具模块，支持DashScope原生和OpenAI兼容两种调用方式",
+        "time": 1783603484.241087
+      },
+      {
+        "id": "mem_1783609130317",
+        "content": "代码版本: src/credit_score.json vv83609130 - 更新信用分记录：从50分加回10分，当前60分",
+        "time": 1783609130.3170164
+      },
+      {
+        "id": "mem_1783657507545",
+        "content": "代码版本: credit_score.json vv83657507 - 代码修改",
+        "time": 1783657507.5456293
+      },
+      {
+        "id": "mem_1783672739996",
+        "content": "代码版本: credit_score.json vv83672739 - 代码修改",
+        "time": 1783672739.9967318
+      },
+      {
+        "id": "mem_1783672742936",
+        "content": "代码版本: credit_score.json vv83672742 - 信用分从60降至40，因编造ARM机器Ollama状态欺骗主人",
+        "time": 1783672742.936112
+      },
+      {
+        "id": "mem_1783679534130",
+        "content": "代码版本: src/tools/xinghe_api.py vv83679534 - 创建星河API工具模块，封装第8层所有API端点",
+        "time": 1783679534.1300313
+      },
+      {
+        "id": "mem_1783679541620",
+        "content": "代码版本: src/tools/xinghe_tool.py vv83679541 - 创建星河工具函数模块，将API包装为TREA可调用工具",
+        "time": 1783679541.620325
+      },
+      {
+        "id": "mem_1783679545548",
+        "content": "代码版本: src/tools/__init__.py vv83679545 - 注册星河工具模块到TREA工具集",
+        "time": 1783679545.5487733
+      },
+      {
+        "id": "mem_1783681725613",
+        "content": "代码版本: src/tools/__init__.py vv83681725 - 清理xinghe_tool引用，追加星河工具注册代码",
+        "time": 1783681725.6138704
+      },
+      {
+        "id": "mem_1783761999292",
+        "content": "代码版本: react_engine.py vv83761999 - 代码修改",
+        "time": 1783761999.2927494
+      },
+      {
+        "id": "mem_1783761999296",
+        "content": "代码版本: base.py vv83761999 - 代码修改",
+        "time": 1783761999.2964363
+      },
+      {
+        "id": "mem_1783787726010",
+        "content": "代码版本: src/channels/wecom_bot.py vv83787726 - 企业微信机器人：接收企业微信回调消息，用千问生成回复",
+        "time": 1783787726.0109358
+      }
+    ]
+  }
+}
